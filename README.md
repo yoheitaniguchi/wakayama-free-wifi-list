@@ -1,4 +1,4 @@
-# wakayama-free-wifi-rist
+# wakayama-free-wifi-list
 　和歌山県内のフリーWi-Fiアクセスポイント一覧です。
 
 ###（GitHubアカウント「Wakayama Prefecture」について）
